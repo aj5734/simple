@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+}
+/*navbar*/
+#navbar{
+    flex-direction: column;
+    
+}
+
+#logo{
+    margin: 0%;
+}
+/*home*/
+
+/*services*/
+
+#services{
+flex-direction: column;
+}
+
+
+/*client*/
+
+#client{
+    overflow: hidden;
+}
+
+/*contact-us*/
+
